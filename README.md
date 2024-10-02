@@ -6,7 +6,7 @@
 🤖 **Chatbot Experience**: An interactive chatbot powered by the OpenAI API that responds to user input in real-time.
 
 ## Project Files
-- **Jupyter Notebook**: [12-CROMA.ipynb](12-CROMA.ipynb) — Contains all code for the project, including data analysis, K-Means clustering, and chatbot implementation.
+- **Jupyter Notebook**: [12-CROMA.ipynb](12-CROMA(1).ipynb) — Contains all code for the project, including data analysis, K-Means clustering, and chatbot implementation.
 - **Video Demonstration**: [video.mp4](video.mp4) — A walkthrough of the project explaining store location optimization and the chatbot interaction.
 
 ## Setup Instructions
