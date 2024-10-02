@@ -1,4 +1,4 @@
-# CROMA AI Project: Store Location Optimization & Chatbot using OpenAI API
+# Google Exchange GenAI Hackathon Project: Store Location Optimization & Chatbot using OpenAI API
 
 👋 Hi, this is Team AutoBots!  
 💻 This repository demonstrates the use of **OpenAI API** for creating a chatbot and optimizing store locations using customer data.  
