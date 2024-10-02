@@ -7,7 +7,7 @@
 
 ## Project Files
 - **Jupyter Notebook**: [12-CROMA.ipynb](12-CROMA(1).ipynb) — Contains all code for the project, including data analysis, K-Means clustering, and chatbot implementation.
-- **Video Demonstration**: [video.mp4](video.mp4) — A walkthrough of the project explaining store location optimization and the chatbot interaction.
+- **Video Demonstration**: [video.mp4](Retail_Nexus.mp4) — A walkthrough of the project explaining store location optimization and the chatbot interaction.
 
 ## Setup Instructions
 1. Clone the repository:
